@@ -1,0 +1,38 @@
+.bangladesh_map figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    width: 960px;
+    margin: auto;
+}
+
+.bangladesh_map figure figcaption {
+    background-color: #222;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+.bangladesh_map img{
+	height:500px;
+}
+
+.bangladesh_map img:hover{
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.content_ab h2{
+	font-family: 'Federant', cursive;
+	color:#358D43;
+	padding:5px;
+	margin-bottom:5px;
+}
+.content_ab p{
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:justify;
+	font-size:15px;
+	font-family: 'Roboto', sans-serif;
+
+}
